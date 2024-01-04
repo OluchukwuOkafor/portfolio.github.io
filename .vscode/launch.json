@@ -1,0 +1,11 @@
+{
+"version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "c:\\Users\\Jhaypee\\Downloads\\Site templates\\Personal\\Personal\\index.html"
+        }
+    ]
+}
